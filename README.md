@@ -125,4 +125,4 @@ This week reinforced that a lot can be learned about a target before any exploit
 
 All activity was performed within an authorized scope: either against `networkwalks.com` with explicit permission, or against infrastructure I own.
 
-*Full evidence screenshots available in `/evidences` â see the companion Word report (`W2-PM-FINAL_Emeka_Nnorom_B084A-v2.docx`) for the complete write-up with all 11 figures.*
+*Full evidence screenshots available in `/evidences` see the companion Word report (`W2-PM-FINAL_Emeka_Nnorom_B084A-v2.docx`) for the complete write-up with all 11 figures.*
